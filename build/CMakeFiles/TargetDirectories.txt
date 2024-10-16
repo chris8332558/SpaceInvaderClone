@@ -1,0 +1,11 @@
+/Users/chris/sdl3/build/CMakeFiles/SDL3-shared.dir
+/Users/chris/sdl3/build/CMakeFiles/SDL3_test.dir
+/Users/chris/sdl3/build/CMakeFiles/uninstall.dir
+/Users/chris/sdl3/build/CMakeFiles/package.dir
+/Users/chris/sdl3/build/CMakeFiles/package_source.dir
+/Users/chris/sdl3/build/CMakeFiles/edit_cache.dir
+/Users/chris/sdl3/build/CMakeFiles/rebuild_cache.dir
+/Users/chris/sdl3/build/CMakeFiles/list_install_components.dir
+/Users/chris/sdl3/build/CMakeFiles/install.dir
+/Users/chris/sdl3/build/CMakeFiles/install/local.dir
+/Users/chris/sdl3/build/CMakeFiles/install/strip.dir
